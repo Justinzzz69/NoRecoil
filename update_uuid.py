@@ -13,4 +13,4 @@ def updateUUID(file_name):
         f.write(content_new)
 
 if __name__ == '__main__':
-    updateUUID('klex.ahk')
+    updateUUID('recoil.ahk')
