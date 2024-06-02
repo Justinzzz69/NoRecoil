@@ -1,5 +1,5 @@
 # Custom Hotkey:
-## Allows setting a hotkey, defaulting to "End", to trigger specific actions.
+## Allows setting a hotkey, defaulting to "End"
 
 # Speed Setting:
 ## Lets users set a speed for simulating mouse click actions.
